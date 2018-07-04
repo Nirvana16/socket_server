@@ -1,0 +1,25 @@
+Instale o Node.JS na maquina caso voce ainda já não tenha feito isso.
+
+# Inicia o novo projeto Node.JS com:
+npm init
+
+# Confirme a Versão e adicione uma descrição. O Node criará o arquivo package.json na raiz Que serve para voce definir o seu versionamento
+# adicionar Scripts de inicialização e Dependencias ao Seu projeto.
+
+# Vamos instalar a Dependencia EXPRESS do Node.
+sudo npm install express --save
+
+# O Node irá criar o diretório com seus modulos.
+
+# Agora crie um arquivo Index.js na raiz do seu projeto. Este arquivo irá conter toda a configuração JS do seu servidor.
+
+# Faça a instalação da dependencia SOCKET.IO
+sudo npm install socket.io --save
+
+# Se voce quiser testar seu server crie um HTML para ser acessado na porta definida no index.js
+
+# inicie seu server com:
+node index.js
+
+#Vamos agora configurar o Client.
+

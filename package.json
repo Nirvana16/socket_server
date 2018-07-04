@@ -1,0 +1,16 @@
+{
+  "name": "soquete_servidor",
+  "version": "1.0.0",
+  "description": "socket com Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "Deus VULT",
+    "start": "node index.js"
+  },
+  "author": "Danilo Azevedo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
+
